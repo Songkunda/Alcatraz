@@ -1,3 +1,7 @@
+## 1.1.16
+
+- Display plugins blocked by Xcode with a special orange "blocked" button
+
 ## 1.1.6
 
 - Support for Xcode 6.4 beta
